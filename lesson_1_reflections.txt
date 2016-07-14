@@ -1,0 +1,8 @@
+É importante para seguir as mudanças feitas
+também ajuda a achar erros mais facilmente
+
+2.pro: eu escolho quando eh melhor fazer o commit e tomo conta das versoes
+contra: as vezes o commit é muito grande ou nao eh nem mesmo feito.
+
+3. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Porque eles funcionam para codigos, que geralmente tem funcoes interligadas, diferente de textos do GoogleDocs
