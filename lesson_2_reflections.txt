@@ -7,3 +7,6 @@ eh como uma area de processamento, que voce manda para depois dar o commit final
 3. How can you use the staging area to make sure you have one commit per logical change?
 vai colocando na staging area ate ter uma mudança significativa, e so depois faz o commit
 
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+teste de novos atributos, novas versoes, correcao de bugs, etc. ele ajuda pois cria uma nova versao do codigo, que pode ser alterada sem alterar o codigo fonte.
+
