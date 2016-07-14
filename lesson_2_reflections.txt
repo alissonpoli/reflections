@@ -1,3 +1,6 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 vc coloca o git dentro dele.
 
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+eh como uma area de processamento, que voce manda para depois dar o commit final.
+
