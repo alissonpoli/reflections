@@ -12,3 +12,6 @@ teste de novos atributos, novas versoes, correcao de bugs, etc. ele ajuda pois c
 
 5. How do the diagrams help you visualize the branch structure?
 Ajuda a ver a arvore de commits e como acessar um determinado commit especifico ou um banch determinado.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+sao os dois branches juntos.para mostar que os dois branches sao pais do filho.
