@@ -10,3 +10,5 @@ vai colocando na staging area ate ter uma mudança significativa, e so depois fa
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 teste de novos atributos, novas versoes, correcao de bugs, etc. ele ajuda pois cria uma nova versao do codigo, que pode ser alterada sem alterar o codigo fonte.
 
+5. How do the diagrams help you visualize the branch structure?
+Ajuda a ver a arvore de commits e como acessar um determinado commit especifico ou um banch determinado.
