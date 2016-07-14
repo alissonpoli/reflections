@@ -15,3 +15,6 @@ Ajuda a ver a arvore de commits e como acessar um determinado commit especifico 
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 sao os dois branches juntos.para mostar que os dois branches sao pais do filho.
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+quando o codigo eh grande vc que tem que procurar o que foi feito em cada uma das versoes.
