@@ -21,9 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    acho que docs eh mais facil, e o mais dificil seria email talvez.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    quando eu preciso testar algo novo, sem necessariamente alterar o estado do master. Mudar o branch facilita a visualiacao enquanto mudar no master facilita a integracao
